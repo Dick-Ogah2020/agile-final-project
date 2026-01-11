@@ -12,10 +12,15 @@ assignees: ''
  **So that** [benefit]  
    
  ### Details and Assumptions
- * [document what you know]
-   
+ * <Detail 1>
+ * <Detail 2>
+ * <Assumption 1>
+
  ### Acceptance Criteria  
-   
+ [ ] <Criterion 1>
+ [ ] <Criterion 2>
+ [ ] <Criterion 3>
+ 
  ```gherkin
  Given [some context]
  When [certain action is taken]
